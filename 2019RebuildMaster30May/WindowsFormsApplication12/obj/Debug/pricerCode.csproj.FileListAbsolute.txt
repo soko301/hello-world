@@ -1,0 +1,303 @@
+c:\users\jsokolsky\documents\visual studio 2013\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\pricerCode.exe.config
+c:\users\jsokolsky\documents\visual studio 2013\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\pricerCode.exe
+c:\users\jsokolsky\documents\visual studio 2013\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\pricerCode.pdb
+c:\users\jsokolsky\documents\visual studio 2013\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\pricerCode.csprojResolveAssemblyReference.cache
+c:\users\jsokolsky\documents\visual studio 2013\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form1.resources
+c:\users\jsokolsky\documents\visual studio 2013\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Properties.Resources.resources
+c:\users\jsokolsky\documents\visual studio 2013\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.GenerateResource.Cache
+c:\users\jsokolsky\documents\visual studio 2013\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\pricerCode.exe
+c:\users\jsokolsky\documents\visual studio 2013\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\pricerCode.pdb
+U:\MasterVisual\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\pricerCode.csprojResolveAssemblyReference.cache
+U:\MasterVisual\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form1.resources
+U:\MasterVisual\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.GenerateResource.Cache
+U:\MasterVisual\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\Bloomberglp.Blpapi.dll
+U:\MasterVisual\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\Bloomberglp.Blpapi.xml
+U:\MasterVisual\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\pricer.Properties.Resources.resources
+R:\FX_desk\Options\priceEngine\pricerCode.exe.config
+U:\MasterVisual\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\priceEngine.exe.manifest
+U:\MasterVisual\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\priceEngine.application
+U:\MasterVisual\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\priceEngine.exe
+U:\MasterVisual\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\priceEngine.pdb
+U:\MasterVisual\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\priceEngine.exe.manifest
+U:\MasterVisual\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\priceEngine.application
+U:\MasterVisual\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
+U:\MasterVisual\PriceEngineGoodAUG\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\PriceEngineGoodAUG\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\PriceEngineGoodAUG\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\priceEngineV1_working\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\priceEngine\priceEngineV1_working\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\priceEngineV1_working\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\priceEngineV1.1_working\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\priceEngine\priceEngineV1.1_working\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\priceEngineV1.1_working\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\priceEngineV1.2_working\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\priceEngine\priceEngineV1.2_working\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\priceEngineV1.2_working\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\priceEngineV1.2_working\WindowsFormsApplication12\bin\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\priceEngineV1.2_working\WindowsFormsApplication12\bin\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\priceEngineV1.2_working\WindowsFormsApplication12\bin\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\priceEngineV1.2_working\WindowsFormsApplication12\bin\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\priceEngineV1.2_working\WindowsFormsApplication12\bin\Debug\Bloomberglp.Blpapi.xml
+U:\MasterVisual\priceEngine\priceEngineV1.2_working\WindowsFormsApplication12\obj\Debug\pricerCode.csprojResolveAssemblyReference.cache
+U:\MasterVisual\priceEngine\priceEngineV1.2_working\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form1.resources
+U:\MasterVisual\priceEngine\priceEngineV1.2_working\WindowsFormsApplication12\obj\Debug\pricer.Properties.Resources.resources
+U:\MasterVisual\priceEngine\priceEngineV1.2_working\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.GenerateResource.Cache
+U:\MasterVisual\priceEngine\priceEngineV1.2_working\WindowsFormsApplication12\obj\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\priceEngineV1.2_working\WindowsFormsApplication12\obj\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\priceEngineV1.2_working\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.Form1.resources
+U:\MasterVisual\priceEngine\priceEngineV1.2_working\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.FormBulkData.resources
+U:\MasterVisual\priceEngine\priceEngineV1.3_working\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\priceEngine\priceEngineV1.3_working\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\priceEngineV1.3_working\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\priceEngineV1.3_working\WindowsFormsApplication12\bin\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\priceEngineV1.3_working\WindowsFormsApplication12\bin\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\priceEngineV1.3_working\WindowsFormsApplication12\bin\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\priceEngineV1.3_working\WindowsFormsApplication12\bin\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\priceEngineV1.3_working\WindowsFormsApplication12\bin\Debug\Bloomberglp.Blpapi.xml
+U:\MasterVisual\priceEngine\priceEngineV1.3_working\WindowsFormsApplication12\obj\Debug\pricerCode.csprojResolveAssemblyReference.cache
+U:\MasterVisual\priceEngine\priceEngineV1.3_working\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.ResolveComReference.cache
+U:\MasterVisual\priceEngine\priceEngineV1.3_working\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.Form1.resources
+U:\MasterVisual\priceEngine\priceEngineV1.3_working\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.FormBulkData.resources
+U:\MasterVisual\priceEngine\priceEngineV1.3_working\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form1.resources
+U:\MasterVisual\priceEngine\priceEngineV1.3_working\WindowsFormsApplication12\obj\Debug\pricer.Properties.Resources.resources
+U:\MasterVisual\priceEngine\priceEngineV1.3_working\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.GenerateResource.Cache
+U:\MasterVisual\priceEngine\priceEngineV1.3_working\WindowsFormsApplication12\obj\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\priceEngineV1.3_working\WindowsFormsApplication12\obj\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\priceEngineV1.4_MASTER\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\priceEngine\priceEngineV1.4_MASTER\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.ResolveComReference.cache
+U:\MasterVisual\priceEngine\priceEngineV1.4_MASTER\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\priceEngineV1.4_MASTER\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\priceEngineV1.4_MASTER\WindowsFormsApplication12\bin\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\priceEngineV1.4_MASTER\WindowsFormsApplication12\bin\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\priceEngineV1.4_MASTER\WindowsFormsApplication12\bin\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\priceEngineV1.4_MASTER\WindowsFormsApplication12\bin\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\priceEngineV1.4_MASTER\WindowsFormsApplication12\bin\Debug\Bloomberglp.Blpapi.xml
+U:\MasterVisual\priceEngine\priceEngineV1.4_MASTER\WindowsFormsApplication12\obj\Debug\pricerCode.csprojResolveAssemblyReference.cache
+U:\MasterVisual\priceEngine\priceEngineV1.4_MASTER\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.Form1.resources
+U:\MasterVisual\priceEngine\priceEngineV1.4_MASTER\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.FormBulkData.resources
+U:\MasterVisual\priceEngine\priceEngineV1.4_MASTER\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form1.resources
+U:\MasterVisual\priceEngine\priceEngineV1.4_MASTER\WindowsFormsApplication12\obj\Debug\pricer.Properties.Resources.resources
+U:\MasterVisual\priceEngine\priceEngineV1.4_MASTER\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.GenerateResource.Cache
+U:\MasterVisual\priceEngine\priceEngineV1.4_MASTER\WindowsFormsApplication12\obj\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\priceEngineV1.4_MASTER\WindowsFormsApplication12\obj\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2016\priceEngineV1.5\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\priceEngine\2016\priceEngineV1.5\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.ResolveComReference.cache
+U:\MasterVisual\priceEngine\2016\priceEngineV1.5\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2016\priceEngineV1.5\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2016\priceEngineV1.5\WindowsFormsApplication12\bin\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2016\priceEngineV1.5\WindowsFormsApplication12\bin\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2016\priceEngineV1.5\WindowsFormsApplication12\bin\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2016\priceEngineV1.5\WindowsFormsApplication12\bin\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2016\priceEngineV1.5\WindowsFormsApplication12\bin\Debug\Bloomberglp.Blpapi.xml
+U:\MasterVisual\priceEngine\2016\priceEngineV1.5\WindowsFormsApplication12\obj\Debug\pricerCode.csprojResolveAssemblyReference.cache
+U:\MasterVisual\priceEngine\2016\priceEngineV1.5\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.Form1.resources
+U:\MasterVisual\priceEngine\2016\priceEngineV1.5\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.FormBulkData.resources
+U:\MasterVisual\priceEngine\2016\priceEngineV1.5\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form1.resources
+U:\MasterVisual\priceEngine\2016\priceEngineV1.5\WindowsFormsApplication12\obj\Debug\pricer.Properties.Resources.resources
+U:\MasterVisual\priceEngine\2016\priceEngineV1.5\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.GenerateResource.Cache
+U:\MasterVisual\priceEngine\2016\priceEngineV1.5\WindowsFormsApplication12\obj\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2016\priceEngineV1.5\WindowsFormsApplication12\obj\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2016\priceEngineV1.6.1\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\priceEngine\2016\priceEngineV1.6.1\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.ResolveComReference.cache
+U:\MasterVisual\priceEngine\2016\priceEngineV1.6.1\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2016\priceEngineV1.6.1\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2016\priceEngineV1.6.1\WindowsFormsApplication12\obj\Debug\pricerCode.csprojResolveAssemblyReference.cache
+U:\MasterVisual\priceEngine\2016\priceEngineV1.6.1\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.Form1.resources
+U:\MasterVisual\priceEngine\2016\priceEngineV1.6.1\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.FormBulkData.resources
+U:\MasterVisual\priceEngine\2016\priceEngineV1.6.1\WindowsFormsApplication12\obj\Debug\pricer.Properties.Resources.resources
+U:\MasterVisual\priceEngine\2016\priceEngineV1.6.1\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.GenerateResource.Cache
+U:\MasterVisual\priceEngine\2016\priceEngineV1.6.1\WindowsFormsApplication12\bin\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2016\priceEngineV1.6.1\WindowsFormsApplication12\bin\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2016\priceEngineV1.6.1\WindowsFormsApplication12\bin\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2016\priceEngineV1.6.1\WindowsFormsApplication12\bin\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2016\priceEngineV1.6.1\WindowsFormsApplication12\bin\Debug\Bloomberglp.Blpapi.xml
+U:\MasterVisual\priceEngine\2016\priceEngineV1.6.1\WindowsFormsApplication12\obj\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2016\priceEngineV1.6.1\WindowsFormsApplication12\obj\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2016\priceEngineV1.6.1\WindowsFormsApplication12\obj\Debug\PricingEngine.Form1.resources
+U:\MasterVisual\priceEngine\2016\master\priceEngineMasterSep9\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\priceEngine\2016\master\priceEngineMasterSep9\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.ResolveComReference.cache
+U:\MasterVisual\priceEngine\2016\master\priceEngineMasterSep9\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2016\master\priceEngineMasterSep9\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2016\master\priceEngineMasterSep9\WindowsFormsApplication12\bin\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2016\master\priceEngineMasterSep9\WindowsFormsApplication12\bin\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2016\master\priceEngineMasterSep9\WindowsFormsApplication12\bin\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2016\master\priceEngineMasterSep9\WindowsFormsApplication12\bin\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2016\master\priceEngineMasterSep9\WindowsFormsApplication12\bin\Debug\Bloomberglp.Blpapi.xml
+U:\MasterVisual\priceEngine\2016\master\priceEngineMasterSep9\WindowsFormsApplication12\obj\Debug\pricerCode.csprojResolveAssemblyReference.cache
+U:\MasterVisual\priceEngine\2016\master\priceEngineMasterSep9\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.Form1.resources
+U:\MasterVisual\priceEngine\2016\master\priceEngineMasterSep9\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.FormBulkData.resources
+U:\MasterVisual\priceEngine\2016\master\priceEngineMasterSep9\WindowsFormsApplication12\obj\Debug\PricingEngine.Form1.resources
+U:\MasterVisual\priceEngine\2016\master\priceEngineMasterSep9\WindowsFormsApplication12\obj\Debug\pricer.Properties.Resources.resources
+U:\MasterVisual\priceEngine\2016\master\priceEngineMasterSep9\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.GenerateResource.Cache
+U:\MasterVisual\priceEngine\2016\master\priceEngineMasterSep9\WindowsFormsApplication12\obj\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2016\master\priceEngineMasterSep9\WindowsFormsApplication12\obj\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheet\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.ResolveComReference.cache
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheet\WindowsFormsApplication12\bin\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheet\WindowsFormsApplication12\bin\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheet\WindowsFormsApplication12\bin\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheet\WindowsFormsApplication12\bin\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheet\WindowsFormsApplication12\bin\Debug\Bloomberglp.Blpapi.xml
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\pricerCode.csprojResolveAssemblyReference.cache
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.Form1.resources
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.FormBulkData.resources
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\PricingEngine.Form1.resources
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\pricer.Properties.Resources.resources
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.GenerateResource.Cache
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.RiskyPopUP.resources
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheetMasterAPR26\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheetMasterAPR26\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.ResolveComReference.cache
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheetMasterAPR26\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheetMasterAPR26\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheetMasterAPR26\WindowsFormsApplication12\bin\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheetMasterAPR26\WindowsFormsApplication12\bin\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheetMasterAPR26\WindowsFormsApplication12\bin\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheetMasterAPR26\WindowsFormsApplication12\bin\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheetMasterAPR26\WindowsFormsApplication12\bin\Debug\Bloomberglp.Blpapi.xml
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheetMasterAPR26\WindowsFormsApplication12\obj\Debug\pricerCode.csprojResolveAssemblyReference.cache
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheetMasterAPR26\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.Form1.resources
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheetMasterAPR26\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.FormBulkData.resources
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheetMasterAPR26\WindowsFormsApplication12\obj\Debug\PricingEngine.Form1.resources
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheetMasterAPR26\WindowsFormsApplication12\obj\Debug\pricer.Properties.Resources.resources
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheetMasterAPR26\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.RiskyPopUP.resources
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheetMasterAPR26\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.GenerateResource.Cache
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheetMasterAPR26\WindowsFormsApplication12\obj\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2016\master\priceEngineSkewSheetMasterAPR26\WindowsFormsApplication12\obj\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2018\priceEngineSkewSheet\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\priceEngine\2018\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.ResolveComReference.cache
+U:\MasterVisual\priceEngine\2018\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2018\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2018\priceEngineSkewSheet\WindowsFormsApplication12\bin\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2018\priceEngineSkewSheet\WindowsFormsApplication12\bin\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2018\priceEngineSkewSheet\WindowsFormsApplication12\bin\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2018\priceEngineSkewSheet\WindowsFormsApplication12\bin\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2018\priceEngineSkewSheet\WindowsFormsApplication12\bin\Debug\Bloomberglp.Blpapi.xml
+U:\MasterVisual\priceEngine\2018\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\pricerCode.csprojResolveAssemblyReference.cache
+U:\MasterVisual\priceEngine\2018\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.Form1.resources
+U:\MasterVisual\priceEngine\2018\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.FormBulkData.resources
+U:\MasterVisual\priceEngine\2018\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\PricingEngine.Form1.resources
+U:\MasterVisual\priceEngine\2018\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\pricer.Properties.Resources.resources
+U:\MasterVisual\priceEngine\2018\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.RiskyPopUP.resources
+U:\MasterVisual\priceEngine\2018\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.GenerateResource.Cache
+U:\MasterVisual\priceEngine\2018\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2018\priceEngineSkewSheet\WindowsFormsApplication12\obj\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.ResolveComReference.cache
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\bin\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\bin\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\bin\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\bin\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\bin\Debug\Bloomberglp.Blpapi.xml
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\obj\Debug\pricerCode.csprojResolveAssemblyReference.cache
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.Form1.resources
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.FormBulkData.resources
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\obj\Debug\PricingEngine.Form1.resources
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\obj\Debug\pricer.Properties.Resources.resources
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.RiskyPopUP.resources
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.GenerateResource.Cache
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\obj\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\obj\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.SkewPopUP.resources
+U:\MasterVisual\priceEngine\2018\priceEngine2018v4Latest\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.tradeSim.resources
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.ResolveComReference.cache
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\bin\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\bin\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\bin\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\bin\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\bin\Debug\Bloomberglp.Blpapi.xml
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\obj\Debug\pricerCode.csprojResolveAssemblyReference.cache
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.Form1.resources
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.FormBulkData.resources
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\obj\Debug\PricingEngine.Form1.resources
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\obj\Debug\pricer.Properties.Resources.resources
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.RiskyPopUP.resources
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.SkewPopUP.resources
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.tradeSim.resources
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.GenerateResource.Cache
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\obj\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2018\LatestLetsGoAlready\WindowsFormsApplication12\obj\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.ResolveComReference.cache
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\bin\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\bin\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\bin\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\bin\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\bin\Debug\Bloomberglp.Blpapi.xml
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\obj\Debug\pricerCode.csprojResolveAssemblyReference.cache
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.Form1.resources
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.FormBulkData.resources
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\obj\Debug\PricingEngine.Form1.resources
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\obj\Debug\pricer.Properties.Resources.resources
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.RiskyPopUP.resources
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.SkewPopUP.resources
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.tradeSim.resources
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.GenerateResource.Cache
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\obj\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\obj\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.mxVols.resources
+U:\MasterVisual\priceEngine\2018\2019Spline\WindowsFormsApplication12\obj\Debug\pricer.risk.resources
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.ResolveComReference.cache
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\bin\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\bin\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\bin\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\bin\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\bin\Debug\Bloomberglp.Blpapi.xml
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\obj\Debug\pricerCode.csprojResolveAssemblyReference.cache
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.Form1.resources
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.FormBulkData.resources
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.mxVols.resources
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\obj\Debug\PricingEngine.Form1.resources
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\obj\Debug\pricer.Properties.Resources.resources
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\obj\Debug\pricer.risk.resources
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.RiskyPopUP.resources
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.SkewPopUP.resources
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.tradeSim.resources
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.GenerateResource.Cache
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\obj\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2018\2019SplineMaster\WindowsFormsApplication12\obj\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.ResolveComReference.cache
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\bin\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\bin\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\bin\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\bin\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\bin\Debug\Bloomberglp.Blpapi.xml
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\obj\Debug\pricerCode.csprojResolveAssemblyReference.cache
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.Form1.resources
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\obj\Debug\Bloomberglp.Blpapi.Examples.FormBulkData.resources
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.mxVols.resources
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\obj\Debug\PricingEngine.Form1.resources
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\obj\Debug\pricer.Properties.Resources.resources
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\obj\Debug\pricer.risk.resources
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.RiskyPopUP.resources
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.SkewPopUP.resources
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication1.tradeSim.resources
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.GenerateResource.Cache
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\obj\Debug\priceEngine.exe.manifest
+U:\MasterVisual\priceEngine\2018\2019SplineMaster - Copy\WindowsFormsApplication12\obj\Debug\priceEngine.application
+U:\MasterVisual\priceEngine\2019\2019RebuildMaster\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\priceEngine\2019\2019RebuildMaster\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.ResolveComReference.cache
+U:\MasterVisual\priceEngine\2019\2019RebuildMaster\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2019\2019RebuildMaster\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
+U:\MasterVisual\priceEngine\2019\2019RebuildMaster30May\WindowsFormsApplication12\bin\Debug\priceEngine.exe.config
+U:\MasterVisual\priceEngine\2019\2019RebuildMaster30May\WindowsFormsApplication12\obj\Debug\pricerCode.csproj.ResolveComReference.cache
+U:\MasterVisual\priceEngine\2019\2019RebuildMaster30May\WindowsFormsApplication12\obj\Debug\priceEngine.exe
+U:\MasterVisual\priceEngine\2019\2019RebuildMaster30May\WindowsFormsApplication12\obj\Debug\priceEngine.pdb
